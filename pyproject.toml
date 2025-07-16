@@ -3,7 +3,7 @@ name = "vuelos-bot"
 version = "0.1.0"
 description = "Add your description here"
 readme = "README.md"
-requires-python = ">=3.11"
+requires-python = ">=3.09"
 dependencies = [
     "dotenv>=0.9.9",
     "pandas>=2.3.1",
